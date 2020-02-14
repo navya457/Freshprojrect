@@ -1,0 +1,15 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\cypress run",
+    "runtests":"npm run test --"
+  },
+  "author": "Navyashree",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.0.1"
+  }
+}
